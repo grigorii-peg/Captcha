@@ -1,0 +1,10 @@
+X:\C#\Captcha\bin\Debug\Captcha.exe.config
+X:\C#\Captcha\bin\Debug\Captcha.exe
+X:\C#\Captcha\bin\Debug\Captcha.pdb
+X:\C#\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+X:\C#\Captcha\obj\Debug\Captcha.Form1.resources
+X:\C#\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+X:\C#\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+X:\C#\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+X:\C#\Captcha\obj\Debug\Captcha.exe
+X:\C#\Captcha\obj\Debug\Captcha.pdb
